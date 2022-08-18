@@ -1,0 +1,17 @@
+{
+    "name": "ibo-smiles/phpmvc-framework",
+    "authors": [
+        {
+            "name": "Ibo Smiles",
+            "email": "ibo.smiled@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
